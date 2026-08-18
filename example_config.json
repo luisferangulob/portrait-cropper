@@ -1,0 +1,23 @@
+{
+  "aspect_name": "4:5 portrait",
+  "aspect_width": 4,
+  "aspect_height": 5,
+  "output_width": 1600,
+  "output_height": 2000,
+  "naming_mode": "Add _cropped suffix",
+  "custom_prefix": "portrait",
+  "preserve_metadata": true,
+  "auto_process_all": true,
+  "target_face_percent": 30.0,
+  "head_extension_percent": 35.0,
+  "headroom_percent": 5.0,
+  "detection_confidence": 0.75,
+  "jpeg_quality": 95,
+  "allow_padding": false,
+  "overwrite_existing": false,
+  "filename_suffix": "_cropped",
+  "maximum_output_width": 4000,
+  "maximum_output_height": 5000,
+  "preserve_orientation": true,
+  "preserve_exif": true
+}

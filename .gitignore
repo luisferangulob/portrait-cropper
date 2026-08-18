@@ -1,0 +1,49 @@
+# Python bytecode and test artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+.venv-build/
+venv/
+env/
+
+# OS and editor metadata
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build and packaging output
+build/
+dist/
+*.egg-info/
+*.app
+*.dmg
+*.pkg
+*.exe
+*.zip
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*~
+
+# Generated application output
+Cropped Portraits/
+**/Cropped Portraits/
+portrait_cropper_report.csv
+*_cropped.jpg
+*_cropped.jpeg
+*_cropped.png
+

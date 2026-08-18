@@ -1,0 +1,5 @@
+Original filename,Output filename,Number of faces detected,"Selected face coordinates (x,y,width,height)","Crop coordinates (x,y,width,height)",Status,Warning or error message
+person_01.jpg,person_01_cropped.jpg,1,"812,388,296,296","560,339,789,987",Processed,
+group.png,group_cropped.png,3,"420,260,180,180","270,230,480,600",Processed,Largest face selected automatically
+undetected.webp,,0,,,Skipped,No face detected; skipped by user
+
